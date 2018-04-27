@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "235429099674",
+    "firebase_url": "https://educationhub-40838.firebaseio.com",
+    "project_id": "educationhub-40838",
+    "storage_bucket": "educationhub-40838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235429099674:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "com.example.sherry.educationhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235429099674-uoc5s4fno59ade7e4clkqr91h271v6ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJoimKh33ao6bLUT1YmNn4ri8Z-qsL8nQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
